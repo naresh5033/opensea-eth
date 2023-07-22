@@ -45,3 +45,4 @@ In this opensea dapp i ve used sanity for the backend to save the user info  and
 ## Deployment 
 
 The is deployed in the heroku and the deployed url is "https://opensea-eth.herokuapp.com/"
+The app is redeployed in vercel and the url is "https://opensea-eth.vercel.app/"
